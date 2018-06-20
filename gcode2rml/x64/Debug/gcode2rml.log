@@ -1,0 +1,9 @@
+﻿  gcode2rml.cpp
+c:\users\akito\documents\visual studio\projects\gcode2rml\gcode2rml\gcode2rml.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\akito\documents\visual studio\projects\gcode2rml\gcode2rml\gcode2rml.cpp(154): warning C4101: 'ival': ローカル変数は 1 度も使われていません。
+c:\users\akito\documents\visual studio\projects\gcode2rml\gcode2rml\gcode2rml.cpp(603): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\akito\documents\visual studio\projects\gcode2rml\gcode2rml\gcode2rml.cpp(585): warning C4101: 'temp': ローカル変数は 1 度も使われていません。
+c:\users\akito\documents\visual studio\projects\gcode2rml\gcode2rml\gcode2rml.cpp(651): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\akito\documents\visual studio\projects\gcode2rml\gcode2rml\gcode2rml.cpp(624): warning C4101: 'temp': ローカル変数は 1 度も使われていません。
+  gcode2rml.vcxproj -> C:\Users\Akito\Documents\visual studio\Projects\gcode2rml\x64\Debug\gcode2rml.exe
+  gcode2rml.vcxproj -> C:\Users\Akito\Documents\visual studio\Projects\gcode2rml\x64\Debug\gcode2rml.pdb (Partial PDB)

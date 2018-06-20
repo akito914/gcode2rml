@@ -1,0 +1,12 @@
+
+# 原点復帰時の座標
+homePosition = ( 0.0, 0.0, 0.0)
+
+#　出力座標のオフセット
+posOffset = ( 0.0, 0.0, 0.0 );
+
+#　早送り時の送り速度
+rapidFeedSpeed = 1000.0
+
+# 円弧保管の分解能（１回転あたりの分割数）
+circularResolution = 360.0
